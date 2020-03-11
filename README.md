@@ -94,6 +94,8 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7e927dde-0e88-4687-a9a1-3a185197f85e/deploy-status)](https://app.netlify.com/sites/epic-hoover-3163b7/deploys)
+
 [![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/import/project?template=https://github.com/gatsbyjs/gatsby-starter-default)
 
 <!-- AUTO-GENERATED-CONTENT:END -->
